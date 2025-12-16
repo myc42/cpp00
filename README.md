@@ -41,4 +41,4 @@ Principe : Le programme phonebook implémente un annuaire simple et interactif. 
 
 ⚙️ Instructions de Compilation
 
-Le projet utilise un Makefile standard pour la compilation.
+Le projet utilise un Makefile standard pour la compilation. 
