@@ -2,7 +2,7 @@
 
 Ce dépôt contient les exercices réalisés dans le cadre des exos 00 et 01 du cursus C++, visant à introduire les fondamentaux du langage C++ et les bases de la Programmation Orientée Objet (POO).
 🎯 Exercices Réalisés
-💻 CPP00 : Introduction au C++
+💻 EX00 : Introduction au C++
 
 Ce module se concentre sur les bases de la compilation et de la manipulation des arguments en ligne de commande.
 Exercice 00 : Megaphone
@@ -21,7 +21,7 @@ HELLO WORLD I AM A C++ PROGRAM
 $> ./megaphone
 * LOUD AND UNBEARABLE FEEDBACK NOISE *
 
-📞 CPP01 : Bases de la Programmation Orientée Objet (POO)
+📞 EXO1 : Bases de la Programmation Orientée Objet (POO)
 
 Ce module introduit la conception de classes et l'encapsulation.
 Exercice 01 : PhoneBook
